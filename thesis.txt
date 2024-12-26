@@ -2,4 +2,10 @@
 ./thesis/resumen.md
 ./thesis/indice.md
 ./thesis/introduccion.md
-
+./thesis/metodologia.md
+./thesis/antecedentes.md
+./thesis/marco.md
+./thesis/analisis.md
+./thesis/conclusiones.md
+./thesis/referencias.md
+./thesis/anexos.md
