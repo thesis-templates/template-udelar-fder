@@ -1,18 +1,8 @@
 ---
-title: Thesis Template
-author: Irving Montalvo
-date: Moon, 2024
-
-subject: Template with Markdown
-keywords: pandoc markdown thesis
-
 papersize: a4
 fontsize: 12pt
 mainfont: "Times New Roman"
 geometry: margin=2.5cm
-
-toc: true
-toc-title: "Index"
 
 bibliography: ./references.bib
 csl: ./format/style.csl
