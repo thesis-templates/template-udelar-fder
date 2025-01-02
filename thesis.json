@@ -1,9 +1,9 @@
 {
-  "annus": 2024,
-  "patria": "ury",
-  "lingua": "spa",
-  "universitas": "udelar.edu.uy",
-  "facultas": "fder.edu.uy",
-  "repositorium": "www.colibri.udelar.edu.uy/jspui/",
-  "descriptio": "Facultad de Derecho / Universidad de la República / Uruguay"
+  "year": 2024,
+  "description": "Facultad de Derecho / Universidad de la República / Uruguay",
+  "iso_country": "ury",
+  "iso_language": "spa",
+  "url_university": "https://udelar.edu.uy/",
+  "url_school": "https://www.fder.edu.uy/",
+  "url_repository": "https://www.colibri.udelar.edu.uy/"
 }
